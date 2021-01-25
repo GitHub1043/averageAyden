@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\bin\Debug\averageAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\obj\Debug\averageAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\obj\Debug\averageAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\obj\Debug\averageAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\bin\Debug\averageAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\bin\Debug\averageAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\bin\Debug\averageAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\obj\Debug\averageAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\obj\Debug\averageAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\averageAyden\averageAyden\obj\Debug\averageAyden.pdb
